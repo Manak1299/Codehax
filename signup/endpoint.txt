@@ -1,0 +1,39 @@
+1) Signup endpoints
+{
+"Role":"User",
+"Userid": "ekta2407",
+"Password":"Ekta1",
+"Name": "Ekta",
+"Email": "ekta@gmail.net"
+}
+2) Login 
+{
+"Userid": "ekta2407",
+"Password":"Ekta1"
+}
+3)
+{
+	"Hackathon_name":"abcd",
+    "Hackathon_definition":"abcd",
+    "Hackathon_date":"2014-01-22T14:56:59.301+00:00",
+    "Hackathon_description":"abcd"
+    }
+4)
+{
+	"Hackathon_name":"abcd",
+	"language":"python"
+}
+
+5)
+{
+    "Userid":"ekta2407",
+ "Hackathon_name":"abcd",   
+ 
+}
+
+
+
+{
+	"language":"python",
+	"Hackathon_name":"first"
+}
